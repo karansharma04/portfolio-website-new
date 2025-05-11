@@ -56,7 +56,7 @@ export default function Header() {
             ))}
             <ModeToggle />
             <Button asChild size="sm" variant="default" className="ml-4">
-              <Link href="/resume.pdf" target="_blank">
+              <Link href="./karan_2025_04_17.pdf" target="_blank">
                 Resume
               </Link>
             </Button>
