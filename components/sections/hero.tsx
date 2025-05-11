@@ -80,7 +80,7 @@ export default function Hero() {
               <a href="#projects">View My Work</a>
             </Button>
             <Button size="lg" variant="outline" asChild>
-              <a href="/karan_2025_04_17.pdf" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1">
+              <a href="./karan_2025_04_17.pdf" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1">
                 Resume <ExternalLink size={16} />
               </a>
             </Button>
